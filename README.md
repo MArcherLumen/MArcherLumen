@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Matthew Archer (@MArcherLumen) but most people just call me Matt 
+- 👋 Hi, I’m Matthew Archer (@MArcherLumen) but most people just call me Matt
+- 🏫 Massachusetts Institute of Technology - SB Urban Studies and Planning (Go Beavers!)
 - 👀 I’m interested in SQL, Python, R, Data Science, Machine Learning, Amateur Radio, and Baking
 - 📫 How to reach me: matthew.archer@lumen.com
 - 😄 Pronouns: He, Him, His 
